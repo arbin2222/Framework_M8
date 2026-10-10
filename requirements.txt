@@ -1,0 +1,16 @@
+selenium
+pytest
+xlrd==1.2.0
+pytest-html
+pytest-order
+
+
+
+
+
+
+# pip install -r requirements.txt
+
+
+
+
